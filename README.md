@@ -28,11 +28,7 @@ Before we do anything with AI look at the following:
 --> note we also need to take photos of april tags, and the area that tells us R L and C before placing team element ontop april tags
 
 Other non-AI goals (in order of priority):
-- Test out motors 
-- Make sure everything on control hub works 
 - Update all for control hub
-- Plan out autonomous needs and path
-- Figure out how to do drive by encoders, traveling distancing rather than seconds
 - Once arm is built, test driver controlled section 
 - Plan, code, test and prototype for airplane (spring? pressured air? slingshot?)
 
